@@ -2,17 +2,6 @@ Here at Penetrum we are strong believers in the opensource community. We think k
 
 That's why we decided to come up with a list of tools to help with security implementations, auditing, penetration testing, server management, and much more. Enjoy!
   
-  
- Project Management: 
-    	
-	- Trello https://trello.com/en-US
-	- MeisterTask https://www.meistertask.com/
-	- Wrike https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjk6tr6tpvjAhUE4MgKHbv2BR0YABAAGgJxdQ&ohost=www.google.com&cid=CAESEeD20Zpi5P6sIDYSwTN0R6sH&sig=AOD64_3sIr0fiuILpk9tST2kZvVEHO3JnA&q=&ved=2ahUKEwiC_NL6tpvjAhVlu1kKHQsgBtoQ0Qx6BAgOEAE&adurl=
-	- Bitrix24 https://www.bitrix24.com/
-	- Teamwork Projects https://www.teamwork.com/project-management-software/
-	- Todoist https://todoist.com/?lang=en
-	- Zenkit https://zenkit.com/en/
-	- Wekan https://wekan.github.io
 	
 Asset Management/Supply Chain Management: 
     	
@@ -25,9 +14,6 @@ Vulnerability Management:
 	
 	- Faraday https://github.com/infobyte/faraday
 	- Archery Sec https://github.com/archerysec/archerysec
-	- Jackhammer https://github.com/olacabs/jackhammer
-	- Watchdog https://github.com/flipkart-incubator/watchdog
-	- OpenVAS https://sectools.org/tool/openvas/
 	
 Containter Related Scanning: 
 
@@ -35,7 +21,6 @@ Containter Related Scanning:
 	
 Docker UI: 
 
-    - Cockpit Docker https://cockpit-project.org/guide/133/feature-docker.html
 	- lazydocker https://github.com/jesseduffield/lazydocker/blob/master/README.md
 	
 
@@ -43,23 +28,16 @@ Configuration Management:
     	
 	- MGMT https://github.com/purpleidea/mgmt 
 	- Chef https://downloads.chef.io/
-	- Puppet https://puppet.com/download-open-source-puppet
-	- CFengine https://cfengine.com/product/free-download/
-	- Juju https://github.com/juju/juju
 	- Rudder https://www.rudder.io/en/
 	- Ansible https://www.ansible.com/
 	- Terraform https://www.terraform.io/downloads.html
 	- Vagrant https://www.vagrantup.com/downloads
-	- Bcfg2 http://bcfg2.org/download/
-	- Saltstack https://www.saltstack.com
-	- Cockpit https://cockpit-project.org/
 	
 SIEM: 
 	
 	- OSSEC https://www.ossec.net/
 	- WAZUH  https://wazuh.com/
 	- ZEEK  https://www.zeek.org/
-	- EventLog360 https://www.manageengine.com/log-management/download.html
 	- Alient Vault - OSSIM https://www.alienvault.com/products/ossim
 	
 VPN: 
